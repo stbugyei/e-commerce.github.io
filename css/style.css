@@ -41,7 +41,6 @@ body {
 ul.banner {
     text-decoration: none;
     position: relative;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     display: flex;
     background: #ACEBFA;
 }
@@ -177,11 +176,6 @@ input[type=text] {
     cursor: pointer;
 }
 
-
-/*.fa-search:hover {
-    background: #6d7f8f;
-}
-*/
 
 .fa-search::after {
     content: "";
@@ -433,7 +427,6 @@ ul.manu_product {
 }
 
 ul.menu_item {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     list-style-type: none;
     background: #21D3FC;
     line-height: 1.1rem;
@@ -461,7 +454,6 @@ ul.menu_item {
     background: rgb(207, 203, 203);
     margin-top: 30px;
     font-size: 55px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-weight: bold;
     font-style: italic;
 }
@@ -494,7 +486,7 @@ ul.menu_item {
     font-size: 18px;
     font-weight: bold;
     padding: 6px 12px;
-    /* margin-right: 10px; */
+
     text-decoration: none;
     margin: 5px;
 }
@@ -515,7 +507,6 @@ ul.menu_item {
     font-size: 33px;
     font-style: italic;
     font-weight: bold;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .menu_item--tags--subtext {
@@ -568,7 +559,6 @@ ul.newproducts {
 }
 
 .newproducts_header {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     padding: 25px;
     font-size: 31px;
     font-weight: bold;
@@ -655,7 +645,6 @@ ul.newproducts {
 .newproducts_items--price {
     font-size: 14px;
     font-weight: bold;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     display: flex;
     word-wrap: break-word;
     justify-content: space-between;
@@ -686,7 +675,6 @@ ul.newproducts {
 .newproducts_header2 {
     margin-top: 30px;
     margin-bottom: 00px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     padding: 25px;
     font-size: 31px;
     font-weight: bold;
@@ -695,7 +683,6 @@ ul.newproducts {
 }
 
 .newproducts_header3 {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     padding: 25px;
     font-size: 31px;
     font-weight: bold;
